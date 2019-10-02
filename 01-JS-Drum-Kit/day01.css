@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
-  background: #0e182e;
+  background: #0e182e url(https://source.unsplash.com/Qq2h76kYRFI);
+  background-size: cover;
 }
 
 body,
