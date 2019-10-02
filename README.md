@@ -2,7 +2,7 @@
 
 ## Days
 
-* [Day 01 - JavaScript Drum Kit](./Day01-JavaScript-Drum-Kit/index.html)
+* [Day 01 - JS Drum Kit](./01-JS-Drum-Kit/day01.html)
 
 ### More Info
 
