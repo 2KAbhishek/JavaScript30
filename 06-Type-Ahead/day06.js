@@ -28,7 +28,12 @@ function displayMatches() {
         </li>
         `;
     }).join('');
-    suggestions.innerHTML = html;
+    if (this.value.length >= 2){
+        suggestions.innerHTML = html;
+    }
+    if (this.value.length <= 1){
+        suggestions.innerHTML = '<li>Search for a city or state in USA</li>';
+    }
 }
 
 const searchInput = document.querySelector('.search');
