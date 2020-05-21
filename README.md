@@ -18,6 +18,7 @@ Stuff created during JavaScript30.
 * [03 - CSS Var Updater](./03-CSS-Var-Updater/day03.html)
 * [04 - Array Cardio 1](./04-Array-Cardio-1/day04.html)
 * [05 - Flex Panel Gallery](./05-Flex-Panel-Gallery/day05.html)
+* [06 - Type Ahead](./06-Type-Ahead/day06.html)
 
 ### More Info
 
