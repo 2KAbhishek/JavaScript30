@@ -19,6 +19,7 @@ Stuff created during JavaScript30.
 * [04 - Array Cardio 1](./04-Array-Cardio-1/day04.html)
 * [05 - Flex Panel Gallery](./05-Flex-Panel-Gallery/day05.html)
 * [06 - Type Ahead](./06-Type-Ahead/day06.html)
+* [07 - Array Cardio 2](./07-Array-Cardio-2/day07.html)
 
 ### More Info
 
