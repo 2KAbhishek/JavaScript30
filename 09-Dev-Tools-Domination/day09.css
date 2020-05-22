@@ -1,0 +1,10 @@
+p {
+    color: #ee1050;
+    font-size: 50px;
+    text-align: center;
+}
+
+p > em {
+    color: #3050ff;
+    font-size: 20px;
+}
