@@ -1,5 +1,3 @@
-<div align="center">
-
 # JavaScript30
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/JavaScript30?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,6 @@
 
 Stuff created during JavaScript30.
 
-</div>
 
 
 ## Days
@@ -29,7 +26,6 @@ Stuff created during JavaScript30.
 - [10 - Hold Shift And Check Checkboxes](./10-Hold-Shift-And-Check-Checkboxes/day10.html)
 - [11 - Custom Video Player](./11-Custom-Video-Player/day11.html)
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
 ### More Info
 
