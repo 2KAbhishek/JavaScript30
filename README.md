@@ -10,8 +10,6 @@
 
 Stuff created during JavaScript30.
 
-
-
 ## Days
 
 - [01 - JS Drum Kit](./01-JS-Drum-Kit/day01.html)
@@ -26,8 +24,6 @@ Stuff created during JavaScript30.
 - [10 - Hold Shift And Check Checkboxes](./10-Hold-Shift-And-Check-Checkboxes/day10.html)
 - [11 - Custom Video Player](./11-Custom-Video-Player/day11.html)
 
-
 ### More Info
 
 [JavaScript30](https://javascript30.com)
-
