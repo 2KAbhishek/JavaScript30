@@ -23,6 +23,7 @@ Stuff created during JavaScript30.
 - [09 - Dev Tools Domination](./09-Dev-Tools-Domination/day09.html)
 - [10 - Hold Shift And Check Checkboxes](./10-Hold-Shift-And-Check-Checkboxes/day10.html)
 - [11 - Custom Video Player](./11-Custom-Video-Player/day11.html)
+- [12 - Key Sequence Detection](./12-Key-Sequence-Detection/day12.html)
 
 ### More Info
 
